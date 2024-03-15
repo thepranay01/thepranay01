@@ -86,14 +86,12 @@
 </a>
 <a href="https://www.youtube.com/user/@ipranay_singhh" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=thepranay01&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
