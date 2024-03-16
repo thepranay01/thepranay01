@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif =100x100) I'm Pranay Singh
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Pranay Singh
 
 Dynamic and driven individual with a keen interest in technology and innovation. Equipped with a solid foundation in Programming, I bring a fresh perspective and a hunger for learning to the table. With a commitment to excellence and a passion for creativity, I'm excited to embark on this journey of exploration and growth. Let's connect and create something extraordinary together.
 
