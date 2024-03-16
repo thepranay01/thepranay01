@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-## Hi ![Hi](https://private-user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA1OTEzMTksIm5iZiI6MTcxMDU5MTAxOSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTUtNDdlYjI3MzQtYWRkYi00NmRhLWI0ZGQtNWUxNjE2Y2QzODUzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE2VDEyMTAxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFlYzRiMTE1NjFhZjM2NGQxZWJiZmQzNDc4ZjJiNjRkMjhkNjA3MTdlZDkwMmMyZmJjNTU0NTdjM2UyYWJmMjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.d5LrBxkZa0b9Hg1eWaa3pe5IObluhMTbcJNT9Tfl2hQ) I'm Pranay Singh
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif =100x100) I'm Pranay Singh
 
 Dynamic and driven individual with a keen interest in technology and innovation. Equipped with a solid foundation in Programming, I bring a fresh perspective and a hunger for learning to the table. With a commitment to excellence and a passion for creativity, I'm excited to embark on this journey of exploration and growth. Let's connect and create something extraordinary together.
 
