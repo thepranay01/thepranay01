@@ -1,7 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 
 <h1 align="center">Hi 👋, I'm Pranay Singh</h1>
-<h3 align="center">Hi there! 👋 I'm Pranay Singh, a passionate Site Reliability Engineer (SRE) Trainee at Mthree. I specialize in automation, cloud technologies, and infrastructure reliability to ensure smooth and efficient system operations.</h3>
+<h3 align="center">A passionate Site Reliability Engineer (SRE) Trainee at Mthree. I specialize in automation, cloud technologies, and infrastructure reliability to ensure smooth and efficient system operations.</h3>
 
 - DevOps & Cloud: **AWS, Docker, Kubernetes, CI/CD, Jenkins**
 
