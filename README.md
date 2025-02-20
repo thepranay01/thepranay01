@@ -1,4 +1,4 @@
-![Header]([https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://media.licdn.com/dms/image/v2/D4D12AQHUkGVUCBFuKw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1663807929559?e=1745452800&v=beta&t=I2ONRbHccm12uYnPZpPTO1qz3mTzyy6TpmNHwaEja9I))
+![Header]([https://media.licdn.com/dms/image/v2/D4D12AQHUkGVUCBFuKw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1663807929559?e=1745452800&v=beta&t=I2ONRbHccm12uYnPZpPTO1qz3mTzyy6TpmNHwaEja9I])
 
 <h1 align="center">Hi 👋, I'm Pranay Singh</h1>
 <h3 align="center">Hi there! 👋 I'm Pranay Singh, a passionate Site Reliability Engineer (SRE) Trainee at Mthree. I specialize in automation, cloud technologies, and infrastructure reliability to ensure smooth and efficient system operations.</h3>
